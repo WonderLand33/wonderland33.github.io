@@ -15,8 +15,8 @@ function initPlayers() {
 //             thumbnails: 'https://i.loli.net/2019/06/06/5cf8c5d9cec8510758.jpg'
 //         },
          video: {
-            url: 'rtmp://42.192.148.214/live/test',
-            type: 'hls',
+             url: 'http://42.192.148.214/live/test.live.flv',
+             type: 'hls',
         },
         subtitle: {
             url: 'https://s-sh-17-dplayercdn.oss.dogecdn.com/hikarunara.vtt'
