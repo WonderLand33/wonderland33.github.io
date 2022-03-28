@@ -15,7 +15,7 @@ function initPlayers() {
 //             thumbnails: 'https://i.loli.net/2019/06/06/5cf8c5d9cec8510758.jpg'
 //         },
          video: {
-             url: 'http://42.192.148.214/live/test.live.flv',
+             url: 'https://42.192.148.214/live/test.live.flv',
              type: 'hls',
         },
         subtitle: {
